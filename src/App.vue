@@ -1,6 +1,7 @@
 <template>
   <div id="App">
     <h2>App-------APP</h2>
+    <h2>合并分支测试</h2>
     <Test />
   </div>
 </template>
